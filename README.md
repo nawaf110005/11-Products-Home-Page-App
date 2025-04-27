@@ -4,8 +4,8 @@
 This React application is developed as a homework assignment for the AI-Powered Web Development with React course. It demonstrates how to fetch data from an API and build an interactive UI featuring product listing, search, sort, and selection capabilities.
 
 ## Live Demo & Repository
-- **Live Demo:** _in progress_
-- **GitHub Repository:** https://github.com/nawaf110005/11-Products-Home-Page-App
+- **Live Demo:** _[Product Listing App](https://prducts.netlify.app/)_
+- **GitHub Repository:** _[Product Listing GitHub]https://github.com/nawaf110005/11-Products-Home-Page-App_
 
 ## Features
 1. **Product Listing**
