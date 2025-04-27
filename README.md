@@ -5,7 +5,7 @@ This React application is developed as a homework assignment for the AI-Powered 
 
 ## Live Demo & Repository
 - **Live Demo:** _[Product Listing App](https://prducts.netlify.app/)_
-- **GitHub Repository:** _[Product Listing GitHub](https://github.com/nawaf110005/11-Products-Home-Page-App\)_
+- **GitHub Repository:** _[Product Listing GitHub](https://github.com/nawaf110005/11-Products-Home-Page-App/)_
 
 ## Features
 1. **Product Listing**
